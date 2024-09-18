@@ -1,4 +1,4 @@
-## aws-stepfunctions-examples
+## Criando um Assistente de Delivery com AWS Step Functions e Bedrock.
 
 AWS Step Functions é um serviço que  fornece orquestração sem servidor para aplicações modernas.
 
